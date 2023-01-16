@@ -1,15 +1,16 @@
 
 public class ProbamosGitHub {
+	static int a=8;
+	static int b=7;	
 
 	public static void main(String[] args) {
-int a=3;
-int b=2;
-		suma(a, b);
-		resta(a, b);
-		
+
+	suma();
+	
+	System.out.println("TE AMO CUCHUFLITA");	
 		
 	}
-public static int suma(int a, int b) {
+public static int suma() {
  int rata = a+b;
  
  System.out.println(rata);
@@ -17,10 +18,7 @@ public static int suma(int a, int b) {
 	// TODO Auto-generated method stub
 
 }
-public static int resta (int a, int b) {
-	int rata = a-b;
-	System.out.println(rata);
-	return rata;
 
-}
+
+ 
 }
