@@ -7,7 +7,8 @@ public class ProbamosGitHub {
 
 	suma();
 	
-	System.out.println("TE AMO CUCHUFLITA");	
+	System.out.println("TE AMO CUCHUFLITA");
+	System.out.println("Te amo mucho");
 		
 	}
 public static int suma() {
